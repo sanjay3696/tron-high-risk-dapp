@@ -1,6 +1,6 @@
 import 'bootstrap';
 
-export const CONTRACT_ADDRESS="TLC58UqqrLvQCJ46YzpFZnUM4Sp21VJUFx";
+export const CONTRACT_ADDRESS="TXsugE52t4fnVc3gsDn9iXpwp6aQhN9FjD";
 
 export const DEFAULT_REFERRER_ADDRESS="TVWV3mq72wDrGs39vu5RZisXLNZyUYzqdi";
 
