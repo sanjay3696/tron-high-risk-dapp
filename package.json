@@ -9,16 +9,7 @@
     "prod": "parcel build ./src/index.html"
 
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/vahidfzm/tron-high-risk-dapp.git"
-  },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/vahidfzm/tron-high-risk-dapp/issues"
-  },
-  "homepage": "https://github.com/vahidfzm/tron-high-risk-dapp#readme",
+  
   "dependencies": {
     "@fortawesome/fontawesome-free": "^5.15.1",
     "bootstrap": "^4.5.3",
